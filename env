@@ -1,0 +1,7 @@
+PORT=3000
+MONGODB_USER=qvant
+MONGODB_PASSWORD=ff0826tc
+MONGODB_URL=@cluster0.ee1tm.mongodb.net
+MONGODB_DB=contacts
+// # mongodb+srv://qvant:<db_password>@cluster0.ee1tm.mongodb.net/
+// # mongodb+srv://qvant:<db_password>@cluster0.ee1tm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
